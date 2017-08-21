@@ -1153,8 +1153,7 @@
     "step|6F",
     "swim|true,1.2F,1F,false",
     "climb",
-    "potionEffect|2,600,0,false",
-    "potionEffect|18,300,0,false"
+    "potionEffect|2,600,0,false"
   ],
   "gaia.entity.monster.EntityGaiaVampire": [
     "hostile",
