@@ -962,6 +962,11 @@
     "hostile",
     "potionEffect|2,300,0,false"
   ],
+    "gaia.entity.monster.EntityGaiaDwarf": [
+    "hostile",
+    "potionEffect|2,600,0,false"
+    "potionEffect|4,600,0,false"
+  ],
   "gaia.entity.monster.EntityGaiaEnderDragonGirl": [
     "hostile",
     "waterAllergy",
@@ -975,6 +980,7 @@
   "gaia.entity.monster.EntityGaiaFleshLich": [
     "hostile",
     "sunburn",
+    "fireImmunity",
     "poisonResistance"
   ],
   "gaia.entity.monster.EntityGaiaFutakuchiOnna": [
@@ -987,6 +993,8 @@
   ],
   "gaia.entity.monster.EntityGaiaGryphon": [
     "fly|true",
+    "potionEffect|2,600,0,false",
+    "fallNegate",
     "hostile"
   ],
   "gaia.entity.monster.EntityGaiaHunter": [
