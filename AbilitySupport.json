@@ -882,12 +882,27 @@
   ],
   "gaia.entity.monster.EntityGaiaAnubis": [
     "hostile",
+    "fireImmunity",
     "potionEffect|2,600,0,false",
     "potionEffect|15,300,0,false"
+  ],
+  "gaia.entity.monster.EntityGaiaAntWorker": [
+    "hostile",
+    "potionEffect|2,300,0,false",
+    "potionEffect|4,300,0,false"
+  ],
+  "gaia.entity.monster.EntityGaiaArachne": [
+    "hostile",
+    "poisonResistance"
+    "climb",
+    "potionEffect|2,300,0,false",
+    "potionEffect|18,300,0,false"
   ],
   "gaia.entity.monster.EntityGaiaBanshee": [
     "hostile",
     "sunburn",
+    "fireImmunity",
+    "fallNegate",
     "fly|false"
   ],
   "gaia.entity.monster.EntityGaiaBaphomet": [
@@ -900,19 +915,27 @@
   "gaia.entity.monster.EntityGaiaBoneKnight": [
     "hostile",
     "sunburn",  
-    "potionEffect|2,600,0,false", 
-    "potionEffect|4,600,2,false"
+    "potionEffect|2,1800,0,false", 
+    "potionEffect|4,1800,2,false"
   ],
   "gaia.entity.monster.EntityGaiaCentaur": [
-    "step|1F"
+    "step|1F",
+    "potionEffect|2,300,0,false",
+    "potionEffect|18,300,0,false"
   ],
   "gaia.entity.monster.EntityGaiaCobbleGolem": [
     "hostile",
-    "swim|true,0.7F,1F,false"
+    "poisonResistance",
+    "fireImmunity",
+    "swim|true,0.7F,1F,false",
+    "sink"
   ],
   "gaia.entity.monster.EntityGaiaCobblestoneGolem": [
     "hostile",
-    "swim|true,0.7F,1F,false"
+    "poisonResistance",
+    "fireImmunity",
+    "swim|true,0.7F,1F,false",
+    "sink"
   ],
   "gaia.entity.monster.EntityGaiaCockatrice": [
     "hostile",
