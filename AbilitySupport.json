@@ -883,8 +883,8 @@
   "gaia.entity.monster.EntityGaiaAnubis": [
     "hostile",
     "fireImmunity",
-    	"potionEffect|2,600,0,false",
-    	"potionEffect|15,300,0,false"
+    	"player.add.potionEffect|2,600,0,false",
+    	"player.add.potionEffect|15,300,0,false"
   ],
   "gaia.entity.monster.EntityGaiaAntWorker": [
     "hostile",
