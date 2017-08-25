@@ -1162,7 +1162,7 @@
     "fireImmunity",
     "fly|false",
     "fallNegate",
-    "step|10F",
+    "step|3F",
     "swim|true,1.2F,1F,true",
     "climb",
     "witherResistance",
