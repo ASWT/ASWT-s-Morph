@@ -1174,7 +1174,6 @@
     "potionEffect|18,1000,4,false",
     "potionEffect|19,1000,4,false",
     "potionEffect|20,1000,4,false",
-    "potionEffect|7,1000,4,false"
   ],
   "gaia.entity.monster.EntityGaiaWerecat": [
     "hostile",
