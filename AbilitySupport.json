@@ -883,8 +883,8 @@
   "gaia.entity.monster.EntityGaiaAnubis": [
     "hostile",
     "fireImmunity",
-    	".add.potionEffect|2,600,0,false",
-    	".add.potionEffect|15,300,0,false"
+    	"potionEffect|2,600,0,false",
+    	"potionEffect|15,300,0,false"
   ],
   "gaia.entity.monster.EntityGaiaAntWorker": [
     "hostile",
@@ -1168,13 +1168,13 @@
     "witherResistance",
     "potionEffect|2,1000,4,false",
     "potionEffect|4,1000,4,false",
-    "potionEffect|7,1000,4,false",
     "potionEffect|9,1000,4,false",
     "potionEffect|15,1000,4,false",
     "potionEffect|17,1000,4,false",
     "potionEffect|18,1000,4,false",
     "potionEffect|19,1000,4,false",
-    "potionEffect|20,1000,4,false"
+    "potionEffect|20,1000,4,false",
+    "potionEffect|7,1000,4,false"
   ],
   "gaia.entity.monster.EntityGaiaWerecat": [
     "hostile",
